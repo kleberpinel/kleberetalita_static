@@ -1,0 +1,28 @@
+.newsletter .txt {
+	line-height: 45px !important;
+}
+.welcome .chef-slides li {
+	list-style-type: none !important;
+}
+.bookatable h1 {
+	font-weight: 400 !important;
+	font-size: 18px !important;
+}
+a {
+	outline: none !important;
+}
+.slider .slides-pager li a:hover.prev {
+	left: -5px !important;
+	background: #717171;
+}
+.slider .slides-pager li a:hover.next {
+	right: -5px !important;
+	background: #717171;
+}
+.events-list li a:hover h2 {
+	left: 100px;
+	color: #000;
+}
+
+
+
